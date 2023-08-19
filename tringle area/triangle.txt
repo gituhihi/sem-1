@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+float l,b,h;
+printf("enter lanth");
+scanf("%f",&l);
+printf("enter hight");
+scanf("%f",&h);
+d=b*l
+printf("area  is =%f",h/2);
+}

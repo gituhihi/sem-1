@@ -1,0 +1,14 @@
+#include<stdio.h>
+void main()
+{
+float p,r,n,s;
+
+printf("enter p");
+scanf("%f",&p);
+printf("enter r");
+scanf("%f",&r);
+printf("enter n");
+scanf("%f",&n);
+d=p*r*n
+printf("interst =%f",s);
+}

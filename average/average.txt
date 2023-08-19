@@ -1,0 +1,18 @@
+#include<stdio.h>
+void main()
+{
+int a,b,c,e;
+printf("enter your first nu.");
+scanf("%d",&a);	
+printf("enter your second nu.");
+scanf("%d",&b);
+printf("enter your third nu.");
+scanf("%d",&c);
+
+e=a+b+c
+printf("average is =%d",e/3);
+}
+
+
+
+

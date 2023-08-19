@@ -1,0 +1,28 @@
+ #include<stdio.h>
+void main()
+{
+int a,b,d;
+printf("your int nu.");
+scanf("%d %d",&a,&b);
+d=a+b
+printf("sum is =%d",d);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
