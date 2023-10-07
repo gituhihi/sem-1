@@ -8,10 +8,10 @@ int main() {
     scanf("%d", &number);
 
     if (number == 0) {
-        digitCount = 1; // Special case for the number 0
+        digitCount = 1;
     } else {
         while (number != 0) {
-            number /= 10; // Divide by 10 to remove the last digit
+            number /= 10; 
             digitCount++;
         }
     }
