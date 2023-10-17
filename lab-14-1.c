@@ -14,7 +14,7 @@ void main()
 	printf("\n%d",arr[i]);
 	}
 		printf("number in normal number:");
-		for(i=n;i>=0;i--){
+		for(i=n-1;i>=0;i--){
 printf("\n%d",arr[i]);
 	}
 	printf("\n");
